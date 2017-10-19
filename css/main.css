@@ -1,0 +1,28 @@
+h1 {
+  font-family: 'Manuale', serif;
+  font-size: 30px;
+}
+
+.icon {
+  color: orange;
+  margin-right: 15px;
+}
+
+.icon1 {
+  color: red;
+  margin-right: 15px;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.gato1{
+    width: 128px; height: 128px;
+    background: url('../assets/images/css_sprites.png') -286px -10px;
+}
+
+.gato2{
+    width: 256px; height: 256px;
+    background: url('../assets/images/css_sprites.png') -10px -10px;
+}
